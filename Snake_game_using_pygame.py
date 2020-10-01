@@ -1,3 +1,4 @@
+""""BY BHAVYA PRATAP SINGH"""
 import pygame
 import random
 x=pygame.init()
